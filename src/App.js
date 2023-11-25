@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import FeeCalculator from "./FeeCalculator";
+import FeeCalculator from "./Pages/FeeCalculator";
 
 function App() {
   return (
